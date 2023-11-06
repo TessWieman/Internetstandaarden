@@ -1,0 +1,195 @@
+* {
+    margin: 0;
+}
+
+body {
+    font-family: sans-serif, serif;
+}
+  
+header nav {
+    width: 94%;
+    height: 10vh;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0% 3% 0% 3%;
+}
+
+.welkom-text {
+    width: 100%;
+    text-align: center;
+}
+  
+.welkom-text h1 {
+    padding-top: 7%;
+    font-size: 150%;
+}
+  
+.welkom-text h2 {
+    padding-bottom: 5%;
+    font-size: 100%;
+    font-weight: 45;
+}
+
+.cover {
+    display: flex;
+    justify-content: space-evenly
+}
+
+p {
+    margin: 3%;
+    font-size: 95%;
+}
+
+section {
+    width: 30vw;
+    margin: auto;
+    background-color: #43663d;
+    font-size: 100%;
+    font-weight: 800;
+    text-align: center;
+    border-radius: 20%;
+    margin-top: 15%;
+    padding: 3% 0% 3% 0%;
+}
+
+section a {
+    text-decoration: none;
+    color: white;
+}
+
+.rij-1 {
+    display: flex;
+    flex-direction: row;
+    margin: 3%;
+}
+
+.box-one {
+    width: 68.5%;
+    height: 24vh;
+    background-color: #e0e0e0;
+    margin-right: 3%;
+}
+
+.box-two {
+    background-color: #43663d;
+    color: white;
+    line-height: 2.0;
+    font-size: 115%;
+    padding: 2%
+}
+
+.rij-2 {
+    display: flex;
+    flex-direction: row;
+    margin: 3%;
+}
+
+.box-three {
+    width: 48.5%;
+    height: 24vh;
+    background-color: #e0e0e0;
+    margin-right: 3%;
+}
+
+.box-four {
+    width: 48.5%;
+    height: 24vh;
+    background-color: #e0e0e0;
+}
+.rij-3 {
+    display: flex;
+    flex-direction: row;
+    margin: 3%;
+}
+
+.box-five {
+    width: 48.5%;
+    height: 24vh;
+    background-color: #e0e0e0;
+    margin-right: 3%;
+}
+
+.box-six {
+    width: 48.5%;
+    height: 24vh;
+    background-color: #e0e0e0;
+}
+
+.twee-buttons {
+    display: flex;
+    justify-content: space-between;
+}
+
+.twee-buttons a {
+    text-decoration: none;
+    color: white;
+}
+
+.twee-buttons :nth-child(1){
+    width: 40vw;
+    height: 7vh;
+    background-color: #43663d;
+    font-size: 100%;
+    font-weight: 800;
+    text-align: center;
+    border-radius: 20%;
+    margin-left: 3%;
+}
+
+.twee-buttons :nth-child(2) {
+    width: 40vw;
+    height: 7vh;
+    background-color: #43663d;
+    font-size: 100%;
+    font-weight: 800;
+    text-align: center;
+    border-radius: 20%;
+    margin-right: 3%;
+}
+
+.rij-4 {
+    display: flex;
+    flex-direction: row;
+    margin: 3%;
+}
+
+.box-seven {
+    width: 68.5%;
+    height: 24vh;
+    background-color: #e0e0e0;
+    margin-right: 3%;
+}
+
+.box-eight {
+    width: 28.5%;
+    background-color: #43663d;
+    color: white;
+    font-size: 115%;
+    padding: 3%;
+}
+
+.rij-5 {
+    display: flex;
+    flex-direction: row;
+    margin: 3%;
+}
+
+.box-nine {
+    width: 48.5%;
+    height: 24vh;
+    background-color: #e0e0e0;
+    margin-right: 3%;
+}
+
+.box-ten {
+    width: 48.5%;
+    height: 24vh;
+    background-color: #e0e0e0;
+}
+
+.box-final {
+    width: 94%;
+    height: 24vh;
+    margin: 0% 3% 0% 3%; 
+}
